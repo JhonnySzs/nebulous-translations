@@ -27,7 +27,7 @@
     <string name="Yes">"Sim"</string>
     <string name="No">"Não"</string>
     <string name="WAIT">"AGUARDE…"</string>
-    <string name="Must_Specify_Name_">"É necessário especificar o nome."</string>
+    <string name="Must_Specify_Name_">"É Necessário Especificar o Nome."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"A classificação do conteúdo da aplicação pode mudar quando procurares grupos."</string>
 
@@ -38,8 +38,8 @@
     <string name="Recombine_">"Recombinar em: "</string>
     <string name="WINNER_">"VENCEDOR:"</string>
     <string name="IDLE">"INATIVO"</string>
-    <string name="Name_Invalid_">"Nome inválido."</string>
-    <string name="Name_Taken_">"Nome assumido."</string>
+    <string name="Name_Invalid_">"Nome Inválido."</string>
+    <string name="Name_Taken_">"Nome Assumido."</string>
     <string name="CONNECTED">"CONECTADO"</string>
     <string name="JOINING___">"A ENTRAR…"</string>
     <string name="PLAYING">"A JOGAR"</string>
@@ -49,14 +49,14 @@
 
 
     <string name="Lobby_Name">"Nome da Sala"</string>
-    <string name="Not_found_">"Não encontrado."</string>
+    <string name="Not_found_">"Não Encontrado."</string>
 
     <string name="Hidden">"Oculto"</string>
 
 
     <string name="SERVER">"SERVIDOR"</string>
     <string name="Joining_game_in_">"A entrar no jogo em "</string>
-    <string name="Game_Full">"Jogo cheio"</string>
+    <string name="Game_Full">"Jogo Cheio"</string>
     <string name="US_East">"América Central"</string>
     <string name="US_West">"América do Norte"</string>
     <string name="Europe">"Europa"</string>
@@ -66,14 +66,14 @@
     <string name="SINGLE_PLAYER">"UM JOGADOR"</string>
     <string name="Background_">"Fundo:"</string>
     <string name="Difficulty_">"Dificuldade:"</string>
-    <string name="Delay_Disconnect">"Atrasar desconexão"</string>
+    <string name="Delay_Disconnect">"Atrasar Desconexão"</string>
 
     <string name="Max_Players">"Máximo de jogadores"</string>
     <string name="Min_Players">"Mínimo de jogadores"</string>
 
     <string name="OK">"OK"</string>
     <string name="CANCEL">"CANCELAR"</string>
-    <string name="Chat_Name">"Nome no chat"</string>
+    <string name="Chat_Name">"Nome no Chat"</string>
     <string name="Max_People">"Máx. de Jogadores"</string>
     <string name="START">"INICIAR"</string>
     <string name="CREATE">"CRIAR"</string>
@@ -110,7 +110,7 @@
     <string name="FRIENDS">"AMIGOS"</string>
     <string name="Warning">"Aviso"</string>
     <string name="SIGNING_IN">"A AUTENTICAR…"</string>
-    <string name="New_Friend_Request">"Novo pedido de amizade!"</string>
+    <string name="New_Friend_Request">"Novo Pedido de Amizade!"</string>
     <string name="REQUEST_FRIEND">"PEDIR AMIZADE"</string>
     <string name="Private">"Privado"</string>
     <string name="Public">"Público"</string>
@@ -125,7 +125,7 @@
     <string name="Achievement_Earned">"Conquista realizada"</string>
     <string name="REFRESH">"ATUALIZAR"</string>
     <string name="DONE">"FEITO"</string>
-    <string name="Friend_Request_Sent">"Pedido de amizade enviado…"</string>
+    <string name="Friend_Request_Sent">"Pedido de Amizade Enviado…"</string>
     <string name="ERROR">"ERRO"</string>
     <string name="CONTINUE">"CONTINUAR"</string>
     <string name="Global_" formatted="false">"Global %"</string>
