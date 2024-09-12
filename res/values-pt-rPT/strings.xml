@@ -11,9 +11,9 @@
     <string name="WEEKLY">"SEMANAL"</string>
     <string name="DAILY">"DIÁRIO"</string>
     <string name="Server_">"Servidor:"</string>
-    <string name="Game_Mode_">"Modo de jogo:"</string>
-    <string name="Show_Names">"Mostrar nomes"</string>
-    <string name="Show_Avatars">"Mostrar skin"</string>
+    <string name="Game_Mode_">"Modo de Jogo:"</string>
+    <string name="Show_Names">"Mostrar Nomes"</string>
+    <string name="Show_Avatars">"Mostrar Skin"</string>
     <string name="PLAY">"JOGAR"</string>
     <string name="OPTIONS">"OPÇÕES"</string>
 
@@ -23,7 +23,7 @@
     <string name="Loading___">"A carregar…"</string>
     <string name="Connecting___">"A conectar…"</string>
 
-    <string name="Are_You_Sure_">"Tens a certeza?"</string>
+    <string name="Are_You_Sure_">"Tens a Certeza?"</string>
     <string name="Yes">"Sim"</string>
     <string name="No">"Não"</string>
     <string name="WAIT">"AGUARDE…"</string>
@@ -227,18 +227,18 @@
     <string name="Absorb_5_doges_without_restarting">"Absorver 5 doges sem reiniciar"</string>
 
     <string name="Friends">"Amigos"</string>
-    <string name="Dots_Eaten_">"Pontos coletados:"</string>
-    <string name="Blobs_Eaten_">"Blobs comidos:"</string>
-    <string name="Blobs_Lost_">"Blobs perdidos:"</string>
-    <string name="Mass_Gained_">"Massa obtida:"</string>
-    <string name="Mass_Ejected_">"Massa ejetada:"</string>
-    <string name="Times_Ejected_">"Vezes ejetado:"</string>
-    <string name="Times_Split_">"Vezes dividido:"</string>
+    <string name="Dots_Eaten_">"Pontos Coletados:"</string>
+    <string name="Blobs_Eaten_">"Blobs Comidos:"</string>
+    <string name="Blobs_Lost_">"Blobs Perdidos:"</string>
+    <string name="Mass_Gained_">"Massa Obtida:"</string>
+    <string name="Mass_Ejected_">"Massa Ejetada:"</string>
+    <string name="Times_Ejected_">"Vezes Ejetado:"</string>
+    <string name="Times_Split_">"Vezes Dividido:"</string>
     <string name="Biggest_Blob_">"Maior Blob:"</string>
-    <string name="Highest_Score_">"Pontuação máxima:"</string>
-    <string name="Average_Score_">"Pontuação média:"</string>
-    <string name="Times_Played_">"Vezes jogadas:"</string>
-    <string name="Longest_Life_">"Vida mais longa:"</string>
+    <string name="Highest_Score_">"Pontuação Máxima:"</string>
+    <string name="Average_Score_">"Pontuação Média:"</string>
+    <string name="Times_Played_">"Vezes Jogadas:"</string>
+    <string name="Longest_Life_">"Vida mais Longa:"</string>
     <string name="Games_Won_">"Vitórias:"</string>
 
     <string name="You_must_wait_until_the_end_of_the_round_">"Tens de esperar até ao fim da ronda"</string>
